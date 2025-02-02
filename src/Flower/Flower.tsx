@@ -1,4 +1,4 @@
-import React, { useEffect, FC } from 'react';
+import React, { useEffect } from 'react';
 import './Flower.scss'
 
 const Flower = () => {
